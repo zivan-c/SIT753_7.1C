@@ -1,5 +1,5 @@
 pipeline {
-   //test for first commit
+   //test for commit
     agent any
     stages {
         stage('Build') {
